@@ -26,7 +26,7 @@ about_profile_image: images/TamerAbdelaziz.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a PhD candidate in Computer Science at School of Computing, [National University of Singapore (NUS)](https://www.comp.nus.edu.sg/). I am being supervised by Assistant Professor [Aquinas Hobor](https://scholar.google.com.sg/citations?user=-SbM8VcAAAAJ&hl=en).
   
-  It's my interest to research in Programming Languages and Software Engineering, I am working in: <mark>Formal verification</mark> and <mark>Mixed-language programs </mark>
+  It's my interest to research in Programming Languages and Software Engineering, I am working in: <mark>Formal verification</mark> and <mark>Analysis of mixed-language programs </mark>
 
 # Projects Section
 # projects_title: Projects
@@ -42,9 +42,8 @@ about_content: | # this will include new lines to allow paragraphs
 
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in Programming Languages and Software Engineering some of my other interests are:
-   - Verified Compiler.
-   - Analysis of low level code.
-   - Type Systems and Program Analyses.
+   - Verified Compiler
+   - Type Systems and Program Analyses
 #   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
