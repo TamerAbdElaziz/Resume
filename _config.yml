@@ -4,13 +4,13 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Tamer Abdelaziz Abdelmegid Mohamed Yassen
-title: PhD Candidate in Computer Science, School of Computing, National University of Singapore.
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+title: PhD Candidate in Computer Science,National University of Singapore.
+email: tamer@comp.nus.edu.sg
+website: https://www.comp.nus.edu.sg/~tamer/
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  TamerAbdelaziz
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
