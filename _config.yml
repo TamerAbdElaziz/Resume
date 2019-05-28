@@ -4,7 +4,7 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Tamer Abdelaziz Abdelmegid Mohamed
-title: PhD Candidate in Computer Science,National University of Singapore.
+title: PhD Candidate in [Computer Science,National University of Singapore](https://www.comp.nus.edu.sg/).
 email: tamer@comp.nus.edu.sg
 website: https://www.comp.nus.edu.sg/~tamer/
 
@@ -24,9 +24,9 @@ linkedin_username: tamer-abdelaziz-yassen-050b6364
 # about_title: About Me
 about_profile_image: images/TamerAbdelaziz.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a PhD candidate in Computer Science at School of Computing, National University of Singapore (NUS). I am being supervised by Assistant Professor Aquinas Hobor.
+  I am a PhD candidate in Computer Science at School of Computing, National University of Singapore (NUS). I am being supervised by Assistant Professor [Aquinas Hobor](https://scholar.google.com.sg/citations?user=-SbM8VcAAAAJ&hl=en).
   
-  It's my interest to research in software engineering, I am working in: <mark>Formal verification</mark> and <mark>Mixed-language programs </mark>
+  It's my interest to research in Programming Languages and Software Engineering, I am working in: <mark>Formal verification</mark> and <mark>Mixed-language programs </mark>
 
 # Projects Section
 # projects_title: Projects
@@ -39,12 +39,13 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+#more_content: | # this will include new lines to allow paragraphs
+#  Alongside my interests in Programming Languages and Software Engineering some of my other interests and hobbies are:
+#   - Rock climbing
+#   - Gaming
+#   - Knitting
+#   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
