@@ -20,9 +20,16 @@
   name: Helwan University, Egypt
   dates: 2015 - 2018
   qualification: Master in Computer Science
+  quote: >
+    Helwan University is established in 1975. Although Helwan University is the most recent of 3 major governmental universities in Cairo, it encompasses some of the oldest and most faculties in Egypt and Middle East.
+  description: | # this will include new lines to allow paragraphs
+    I got my Master's degree in July 2018 from Department of Computer Science, [Helwan University](http://fcih.helwan.edu.eg/index.php/en/about-us). I have worked under the supervision of Professor [Mostafa-Sami M. Mostafa](http://hciegypt.com/mostafa/?page_id=29) and Dr Aya Sedky.
+
+- layout: left
+  name: Helwan University, Egypt
   dates: 2009 - 2013
   qualification: Bachelor in Computer Science
   quote: >
     Helwan University is established in 1975. Although Helwan University is the most recent of 3 major governmental universities in Cairo, it encompasses some of the oldest and most faculties in Egypt and Middle East.
   description: | # this will include new lines to allow paragraphs
-    I got my Master's degree in July 2018 from Department of Computer Science, Helwan University (http://fcih.helwan.edu.eg/index.php/en/research). I have worked under the supervision of Professor [Mostafa-Sami M. Mostafa](http://hciegypt.com/mostafa/?page_id=29) and Dr Aya Sedky.
+    I got my Bachelor's degree in July 2013 from Department of Computer Science, [Helwan University](http://fcih.helwan.edu.eg/index.php/en/about-us). I have worked under the supervision of Dr Wesaam Elbehaidy.
