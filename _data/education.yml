@@ -8,10 +8,19 @@
     I am a Ph.D. candidate in Computer Science at School of Computing, National University of Singapore (NUS). During my time at NUS, till now, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines.
 
 - layout: left
-  name: Masaryk University, Czech Republic
+  name: Masaryk University (MU), Czech Republic
   dates: Short-term exchange study and research, February 2017 - July 2017
   #qualification: Multidisciplinary studies at Faculty of Informatics
   quote: >
-    Established in 1919, [Masaryk University (MU)](https://www.muni.cz/en), is currently the second largest Czech university.
+    Established in 1919, Masaryk University (MU), is currently the second largest Czech university.
   description: | # this will include new lines to allow paragraphs
-    During my time at Masaryk University (MU) I was an exchange student and I have joined a multidisciplinary studies at Faculty of Informatics. I have worked under the supervision of Assistant Professor [Bruno Rossi](https://www.muni.cz/en/people/232464-bruno-rossi).
+    During my time at [Masaryk University (MU)](https://www.muni.cz/en) I was an exchange student and I have joined a multidisciplinary studies at Faculty of Informatics which ranks among the best 9 percent of students as regards the reached average. I have worked under the supervision of Assistant Professor [Bruno Rossi](https://www.muni.cz/en/people/232464-bruno-rossi).
+
+- layout: left
+  name: Helwan University, Egypt
+  dates: 2015 - 2018
+  qualification: Master in Computer Science
+  quote: >
+    Helwan University is established in 1975. Although Helwan University is the most recent of 3 major governmental universities in Cairo, it encompasses some of the oldest and most faculties in Egypt and Middle East.
+  description: | # this will include new lines to allow paragraphs
+    During my time at [Masaryk University (MU)](https://www.muni.cz/en) I was an exchange student and I have joined a multidisciplinary studies at Faculty of Informatics which ranks among the best 9 percent of students as regards the reached average. I have worked under the supervision of Assistant Professor [Bruno Rossi](https://www.muni.cz/en/people/232464-bruno-rossi).
