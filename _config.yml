@@ -28,6 +28,9 @@ about_content: | # this will include new lines to allow paragraphs
   
   It's my interest to research in Programming Languages and Software Engineering, I am working in: <mark>Formal verification</mark> and <mark>Mixed-language programs </mark>
 
+# Projects Section
+# projects_title: Projects
+
 # Experience Section
 # experience_title: Experience
 
@@ -39,8 +42,9 @@ about_content: | # this will include new lines to allow paragraphs
 
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in Programming Languages and Software Engineering some of my other interests are:
-   - Verified Compiler
-   - Type Systems and Program Analyses
+   - Verified Compiler.
+   - Analysis of low level code.
+   - Type Systems and Program Analyses.
 #   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
