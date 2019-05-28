@@ -22,12 +22,11 @@ linkedin_username: tamer-abdelaziz-yassen-050b6364
 
 # About Section
 # about_title: About Me
-about_profile_image: images/IMG_6620.jpg
+about_profile_image: images/TamerAbdelaziz.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a PhD candidate in Computer Science at School of Computing, National University of Singapore (NUS). I am being supervised by Assistant Professor Aquinas Hobor.
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  
+  It's my interest to research in software engineering, I am working in: <mark>Formal verification</mark> and <mark>Mixed-language programs </mark>
 
 # Projects Section
 # projects_title: Projects
