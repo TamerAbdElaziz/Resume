@@ -1,9 +1,29 @@
 - layout: left
   # company: Faculty of Computers and Artificial Intelligence Helwan University
   # link: boringcompany.com
+  job_title: Ph.D. Candidate
+  dates: August 2018 - Present
+  # quote: >
+  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    I am a PhD candidate in Computer Science at School of Computing, National University of Singapore (NUS), Singapore.
+
+- layout: left
+  # company: Faculty of Computers and Artificial Intelligence Helwan University
+  # link: boringcompany.com
   job_title: Assistant Lecturer
   dates: February 2019 - Present
   # quote: >
   # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
-    I am working as Assistant Lecturer at Computer Science Department, Faculty of Computers and Artificial Intelligence Helwan University, Cairo, Egypt.
+    I am working as an Assistant Lecturer at Computer Science Department, Faculty of Computers and Artificial Intelligence Helwan University, Cairo, Egypt.
+
+- layout: left
+  # company: Faculty of Computers and Artificial Intelligence Helwan University
+  # link: boringcompany.com
+  job_title: Teacher Assistant
+  dates: April 2014 - January 2019
+  # quote: >
+  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    I was working as a Teacher Assistant at Computer Science Department, Faculty of Computers and Artificial Intelligence Helwan University, Cairo, Egypt.
