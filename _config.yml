@@ -22,7 +22,7 @@ linkedin_username: tamer-abdelaziz-yassen-050b6364
 
 # About Section
 # about_title: About Me
-about_profile_image: images/TamerAbdelaziz.jpg
+about_profile_image: https://tamerabdelaziz.github.io/Resume/images/TamerAbdelaziz.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a PhD candidate in Computer Science at School of Computing, [National University of Singapore (NUS)](https://www.comp.nus.edu.sg/). I am being supervised by Assistant Professor [Aquinas Hobor](https://scholar.google.com.sg/citations?user=-SbM8VcAAAAJ&hl=en).
   
