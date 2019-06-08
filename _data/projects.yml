@@ -2,9 +2,17 @@
   name: Publications
 #  link: github.com/sproogen
 #  github: sproogen/resume-theme
-  quote: >
-    See my [Google Scholar](https://scholar.google.com.sg/citations?user=BqqwRlgAAAAJ&hl=en)
+#  quote: >
+#    See my [Google Scholar](https://scholar.google.com.sg/citations?user=BqqwRlgAAAAJ&hl=en)
   description: | # this will include new lines to allow paragraphs
     Tamer Abdelaziz, Aya Sedky, Bruno Rossi, Mostafa-Sami M. Mostafa
-    Identification and Assessment of Software Design Pattern Violations
-    https://arxiv.org/pdf/1906.01419
+    "Identification and Assessment of Software Design Pattern Violations".
+    [ PDF ](https://arxiv.org/pdf/1906.01419)
+
+
+- layout: left
+  name: Thesis
+  description: | # this will include new lines to allow paragraphs
+    Tamer Abdelaziz, Aya Sedky, Bruno Rossi, Mostafa-Sami M. Mostafa
+    "Identification and Assessment of Software Design Pattern Violations".
+    [ PDF ](https://arxiv.org/pdf/1906.01419)
