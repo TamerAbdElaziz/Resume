@@ -11,8 +11,8 @@
 
 
 - layout: left
-  name: Thesis
+  name: Dissertations
   description: | # this will include new lines to allow paragraphs
-    Tamer Abdelaziz, Aya Sedky, Bruno Rossi, Mostafa-Sami M. Mostafa
-    "Identification and Assessment of Software Design Pattern Violations".
-    [ PDF ](https://arxiv.org/pdf/1906.01419)
+    Tamer Abdelaziz
+    "Enhancing Design of Extensibility in Software Applications". M.Sc. Thesis, Helwan University, Egypt, 2018.
+    [ PDF ](https://www.comp.nus.edu.sg/~tamer/TamerAbdelaziz_MSc_Thesis.pdf)
