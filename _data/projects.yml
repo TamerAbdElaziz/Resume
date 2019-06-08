@@ -1,6 +1,6 @@
 - layout: left
-#  name: Publications
-   link: Publications
+  name: Publications
+#  link: Publications
 #  github: sproogen/resume-theme
 #  quote: >
 #    See my [Google Scholar](https://scholar.google.com.sg/citations?user=BqqwRlgAAAAJ&hl=en)
